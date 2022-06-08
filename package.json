@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitalii-kopiievskiy/webpack-template.git"
+    "url": "git+https://github.com/AlexMitrovka/webpack-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitalii-kopiievskiy/webpack-template/issues"
+    "url": "https://github.com/AlexMitrovka/webpack-template/issues"
   },
-  "homepage": "https://github.com/vitalii-kopiievskiy/webpack-template#readme",
+  "homepage": "https://github.com/AlexMitrovka/webpack-template#readme",
   "devDependencies": {
     "@babel/core": "^7.15.8",
     "@babel/preset-env": "^7.15.8",
